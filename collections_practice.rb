@@ -60,3 +60,5 @@ def organize_schools(schools)
   end
   new_hash
 end
+
+learn submit
